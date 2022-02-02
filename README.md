@@ -1,4 +1,3 @@
-# REPOSITORIO XXX - FINAL XXX
+PREFABS Y SPAWNERS
 
-ACA UN DESCRIPCION DEL PROYECTO.
-
+repo de clase de profabs que incluye los dos desafios (obligatorio y opcional)
